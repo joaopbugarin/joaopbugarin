@@ -1,16 +1,27 @@
-### Hi there 👋
+### Hello / Olá / Hallo / Holla ! 👋
 
-<!--
-**joaopbugarin/joaopbugarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 &nbsp; In love with sciences, tech, and coding for a living. It's all about the project.
+- 😄 Pronouns: He / Him / His
+- 🎓 &nbsp; Studying Integrated Master in Electrical and Computer Engineering at FEUP - Universidade do Porto
+- 🌱 &nbsp; Currently focused on React, MySQL and MongoDB, but open to new challenges.
+- 💬 &nbsp; Ask me about arts, movies and music as well! 
+- ⚡ &nbsp; Approved on all major Engineering courses in Brazil and in the most concurred one in Portugal.
+
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; C | Javascript | MATLAB 
+- 🌐 &nbsp; HTML | CSS | Bootstrap | ReactJS
+- 🛢 &nbsp; MySQL | MongoDB
+- 🔧 &nbsp; Git 
+
+
+![github stats](https://github-readme-stats.vercel.app/api?username=onlyArsh&show_icons=true)
+
+### 📫🤝🏻 Connect with Me
+
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pedro-bugarin-138924193/) 👨🏻‍💻
+ - Shoot Me an [Email](mailto:joaopbugarin@gmail.com) 💌
