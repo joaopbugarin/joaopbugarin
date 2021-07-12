@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🤔 &nbsp; In love with sciences, tech, and coding for a living. It's all about the project.
-- 😄 Pronouns: He / Him / His
+- 😄 &nbsp; Pronouns: He / Him / His
 - 🎓 &nbsp; Studying Integrated Master in Electrical and Computer Engineering at FEUP - Universidade do Porto
 - 🌱 &nbsp; Currently focused on React, MySQL and MongoDB, but open to new challenges.
 - 💬 &nbsp; Ask me about arts, movies and music as well! 
@@ -18,8 +18,6 @@
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git 
 
-
-![github stats](https://github-readme-stats.vercel.app/api?username=onlyArsh&show_icons=true)
 
 ### 📫🤝🏻 Connect with Me
 
