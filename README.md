@@ -17,6 +17,7 @@
 - 🌐 &nbsp; HTML | CSS | Bootstrap | ReactJS
 - 🛢 &nbsp; MySQL | MongoDB
 - 🔧 &nbsp; Git 
+- 🎨 &nbsp; Adobe Photoshop | Corel Draw | Adobe Premiere
 
 
 ### 📫🤝🏻 Connect with Me
